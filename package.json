@@ -1,0 +1,15 @@
+{
+  "name": "atom-sand-light-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A light syntax theme using the sand colors",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/iryston/atom-sand-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
